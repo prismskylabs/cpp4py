@@ -27,7 +27,7 @@ int_list = [1, 2, 3]
 C++:
 
 ```c++
-std::vector<int> int_list{1, 2, 3;
+std::vector<int> int_list{1, 2, 3};
 ```
 
 
